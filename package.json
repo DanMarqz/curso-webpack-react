@@ -34,13 +34,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/platzi/curso-webpack-react.git"
+    "url": "git+https://github.com/DanMarqz/react-webpack.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/platzi/curso-webpack-react/issues"
+    "url": "https://github.com/DanMarqz/react-webpack/issues"
   },
-  "homepage": "https://github.com/platzi/curso-webpack-react#readme"
+  "homepage": "https://github.com/DanMarqz/react-webpack#readme"
 }
